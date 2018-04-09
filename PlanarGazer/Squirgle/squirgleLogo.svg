@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="73.79984"
-     inkscape:cy="99.70846"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="3.0783167"
+     inkscape:cy="86.545712"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -97,13 +97,6 @@
        y="-150.43393"
        transform="rotate(120)" />
     <circle
-       style="fill:#000000;fill-opacity:1;stroke-width:0.22496472"
-       id="path4021-8-1-3-2"
-       cx="207.10242"
-       cy="-148.89999"
-       r="3.4939489"
-       transform="rotate(120)" />
-    <circle
        style="fill:#e69f00;fill-opacity:1;stroke-width:0.22496472"
        id="path4021-8-1-8-2"
        cx="268.70767"
@@ -121,8 +114,8 @@
     <circle
        style="fill:#e69f00;fill-opacity:1;stroke-width:0.22496472"
        id="path4021-8-1-3-2-5"
-       cx="232.50243"
-       cy="-104.90593"
+       cx="232.5024"
+       cy="-104.90592"
        r="3.4939489"
        transform="matrix(0.5,0.8660254,0.8660254,-0.5,0,0)" />
     <circle
